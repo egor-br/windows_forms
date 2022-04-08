@@ -1,0 +1,8 @@
+D:\а\БГТУ\Программирование\WinForms\Debug\WinForms.vcxproj.AssemblyReference.cache
+D:\а\БГТУ\Программирование\WinForms\Debug\WinForms.exe
+D:\а\БГТУ\Программирование\WinForms\Debug\WinForms.MyForm.resources
+D:\а\БГТУ\Программирование\WinForms\Debug\WinForms.vcxproj.GenerateResource.cache
+C:\Users\barab\OneDrive\Рабочий стол\WinForms\Debug\WinForms.vcxproj.AssemblyReference.cache
+C:\Users\barab\OneDrive\Рабочий стол\WinForms\Debug\WinForms.MyForm.resources
+C:\Users\barab\OneDrive\Рабочий стол\WinForms\Debug\WinForms.vcxproj.GenerateResource.cache
+C:\Users\barab\OneDrive\Рабочий стол\WinForms\Debug\WinForms.exe
